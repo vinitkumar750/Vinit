@@ -1,1 +1,1 @@
-# Vinit
+# This Github Reprository contains the implementation of "Higher-order Spectra-based Ensemble Learning Approach for Cuffless Blood Pressure Estimation" which is under review in IEEE sensors letters. The full code will be uploaded once the paper gets accepted.
